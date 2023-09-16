@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif)](https://github.com/krphat)
 <h1 align="center">👋I'm Phat</h1>
-<h3 align="center">I'm a student at University of Transport and Communications - Campus in Ho Chi Minh City</h3>
+<h2 align="center">Welcome to my Github</h2>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnplbXNtZW02c3gyZXlpdzNveHM3ZjBtY2poOWlhcDB2YzBsZXJraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krphat&label=Profile%20views&color=0e75b6&style=flat" alt="krphat" /> </p>
 
