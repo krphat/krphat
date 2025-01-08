@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif)](https://github.com/krphat)
-<h1 align="center">It's Phary on the code. Yahhh💻</h1>
-<h2 align="center">Welcome to my world!</h2>
+<h1 align="center">Welcome to my world!</h1>
+<h2 align="center">It's Phary on the code. Yahhh💻</h2>
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnplbXNtZW02c3gyZXlpdzNveHM3ZjBtY2poOWlhcDB2YzBsZXJraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krphat&label=Profile%20views&color=0e75b6&style=flat" alt="krphat" /> </p>
 
