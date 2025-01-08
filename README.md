@@ -33,10 +33,17 @@
 ![Colab](https://img.shields.io/badge/Colab-fb9c04?style=for-the-badge&&logo=google-colab&logoColor=fb9c04&labelColor=282828)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=krphat&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=krphat&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krphat&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<table>
+<tr>
+  <td width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=krphat&theme=city_light&hide_border=true&include_all_commits=false&count_private=false" />
+  </td>
+    <td width="48%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krphat&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  </td>
+</tr>
+<table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=krphat&icon=0&color=0)](https://visitcount.itsvg.in)
 
